@@ -6,4 +6,5 @@
 
 ## 1 Prepare
 
-`ini/world.bat`
+replace the `ini/worlds.bat` with `worldsfile/{someworlds}.bat`
+
