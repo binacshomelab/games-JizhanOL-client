@@ -6,5 +6,12 @@
 
 ## 1 Prepare
 
-replace the `ini/worlds.bat` with `worldsfile/{someworlds}.bat`
+-   Extract the `client.7z` by [7-zip](https://www.7-zip.org)
 
+-   Replace the `ini/worlds.bat` with `worldsfile/{someworlds}.bat`
+
+## 2 If you got the `Adobe Flash Info` icon
+
+See [adobe-flash-player-time-bomb.md](adobe-flash-player-time-bomb.md) for more solutions.
+
+**Or just modify the time in this computer and retry!**
